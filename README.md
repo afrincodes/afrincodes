@@ -5,11 +5,11 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
 
-- 🌱 I’m currently learning **Advance JavaScript, React**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Python**
 
-- 📫 How to reach me **afrinsaba2002@gmail.com**
+- 📫 How to reach me **afrincodes@gmail.com**
 
 - ⚡ Fun fact **I am good at crafting.**
 
